@@ -1,6 +1,23 @@
 # Vue 3 with TypeScript
 
-This template should help get you started developing with Vue 3 in Vite.
+## Introduction
+Welcome to my talk on Vue 3 with TypeScript! In this talk, I will be discussing how to use TypeScript in your Vue 3 project. TypeScript is a superset of JavaScript that provides static typing and allows for better code organization, making it a great choice for large-scale Vue projects.
+
+In this talk, I will be covering various aspects of using TypeScript with Vue 3, including setting up your project, typing various aspects of Vue components, and using TypeScript with third-party libraries.
+
+# Table of contents
+
+- Spinning up 🚀 a new Vue 3 project with TypeScript
+- Setting up 🛠️ your IDE
+- Catch type errors across files 🧲
+- Typing Ref and Reactive
+- Typing Computed properties
+- Typing Props and Emit
+- Typing Component Template Ref
+- Typing Routes 🛣
+- Typing Slots 🧩
+- Generic Components 🧬
+- 3rd Party Libraries 📚 (bonus)
 
 ## Recommended IDE Setup
 
